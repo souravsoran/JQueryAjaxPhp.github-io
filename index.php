@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- bootstrap -->
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap.css">
     <!-- // bootstrap -->
 
     <!-- manual add css -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- // manual add css -->
     <title>JQueryAjaxPhp</title>
 </head>
@@ -69,10 +69,10 @@
 
     <!-- javascript  code -->
 
-    <script src="js/bootstrap.js"></script>
-    <script src="js/popper.js"></script>
-    <script src="js/jquery.js"></script>
-    <script src="js/jqajax.js"></script>
+    <script src="bootstrap.js"></script>
+    <script src="popper.js"></script>
+    <script src="jquery.js"></script>
+    <script src="jqajax.js"></script>
     <!-- // javascript  code -->
 
 </body>
